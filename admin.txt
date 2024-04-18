@@ -1,2 +1,1 @@
-s, 5
-gokay, 789
+semihertan, semih1234
